@@ -6,7 +6,7 @@ sites:
   - name: Walt.id Pilot
     url: https://wallet.waltid.findy.fi
     icon: https://walt.id/favicon.ico
-- name: Findy.fi
+  - name: Findy.fi
     url: https://www.findy.fi
     icon: https://pensiondemo.findy.fi/favicon.ico
 
