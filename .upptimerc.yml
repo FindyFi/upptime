@@ -5,8 +5,10 @@ repo: upptime # The name of this repository
 sites:
   - name: Walt.id Pilot
     url: https://wallet.waltid.findy.fi
-  - name: Findy.fi
+    icon: https://images.squarespace-cdn.com/content/609c0ddf94bcc0278a7cbdb4/57a22a67-9804-4c9f-9f82-91193b5cee7e/walt-id.png?format=100w&content-type=image%2Fpng
+- name: Findy.fi
     url: https://www.findy.fi
+    icon: https://pensiondemo.findy.fi/favicon.ico
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
