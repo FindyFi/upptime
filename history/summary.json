@@ -22,19 +22,19 @@
     "url": "https://www.findy.fi",
     "icon": "https://pensiondemo.findy.fi/favicon.ico",
     "slug": "findy-fi",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2843,
-    "timeDay": 2843,
-    "timeWeek": 2843,
-    "timeMonth": 2843,
-    "timeYear": 2843,
+    "status": "up",
+    "uptime": "98.43%",
+    "uptimeDay": "98.43%",
+    "uptimeWeek": "98.43%",
+    "uptimeMonth": "98.43%",
+    "uptimeYear": "98.43%",
+    "time": 2578,
+    "timeDay": 2578,
+    "timeWeek": 2578,
+    "timeMonth": 2578,
+    "timeYear": 2578,
     "dailyMinutesDown": {
-      "2024-03-07": 0
+      "2024-03-07": 21
     }
   }
 ]
