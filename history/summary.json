@@ -22,7 +22,7 @@
     "url": "https://www.findy.fi",
     "icon": "https://pensiondemo.findy.fi/favicon.ico",
     "slug": "findy-fi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 2843,
     "timeMonth": 2843,
     "timeYear": 2843,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-07": 0
+    }
   }
 ]
