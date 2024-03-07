@@ -3,12 +3,42 @@ owner: FindyFi # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Walt.id Pilot
-    url: https://wallet.waltid.findy.fi
-    icon: https://walt.id/favicon.ico
   - name: Findy.fi
     url: https://www.findy.fi
     icon: https://pensiondemo.findy.fi/favicon.ico
+  - name: Opintopolku
+    url: https://opintopolku.findy.fi
+    icon: https://opintopolku.findy.fi/favicon.png
+  - name: Pensiondemo
+    url: https://pensiondemo.findy.fi
+    icon: https://pensiondemo.findy.fi/favicon.ico
+  - name: "Pensiondemo Gataca issuer"
+    url: https://issuer.gataca.pensiondemo.findy.fi
+    icon: https://gataca.io/favicon-32x32.png?v=857b836439065cf2b1e76cc41fb197fe
+  - name: "Pensiondemo Gataca verifier"
+    url: https://verifier.gataca.pensiondemo.findy.fi
+    icon: https://gataca.io/favicon-32x32.png?v=857b836439065cf2b1e76cc41fb197fe
+  - name: "Pensiondemo SICPA issuer"
+    url: https://issuer.sicpa.pensiondemo.findy.fi
+    icon: https://www.sicpa.com/themes/custom/sicpa_theme/sicpa.ico
+  - name: "Pensiondemo SICPA verifier"
+    url: https://verifier.sicpa.pensiondemo.findy.fi
+    icon: https://www.sicpa.com/themes/custom/sicpa_theme/sicpa.ico
+  - name: "Pensiondemo walt.id issuer"
+    url: https://issuer.waltid.pensiondemo.findy.fi
+    icon: https://walt.id/favicon.ico
+  - name: "Pensiondemo walt.id verifier"
+    url: https://verifier.waltid.pensiondemo.findy.fi
+    icon: https://walt.id/favicon.ico
+  - name: Walt.id Wallet
+    url: https://waltid.findy.fi
+    icon: https://walt.id/favicon.ico
+  - name: Walt.id Issuer API
+    url: https://issuer.waltid.findy.fi
+    icon: https://walt.id/favicon.ico
+  - name: Walt.id Verifier API
+    url: https://verifier.waltid.findy.fi
+    icon: https://walt.id/favicon.ico
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
