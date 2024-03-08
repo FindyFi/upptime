@@ -1,7 +1,7 @@
 url: https://www.findy.fi
-status: up
-code: 200
-responseTime: 3949
-lastUpdated: 2024-03-08T07:33:15.202Z
+status: down
+code: 502
+responseTime: 4751
+lastUpdated: 2024-03-08T09:31:10.473Z
 startTime: 2024-03-06T11:31:54.078Z
 generator: Upptime <https://github.com/upptime/upptime>
