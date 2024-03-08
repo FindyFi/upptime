@@ -6,6 +6,9 @@ sites:
   - name: Findy.fi
     url: https://www.findy.fi
     icon: https://pensiondemo.findy.fi/favicon.ico
+  - name: Friend of Findy
+    url: https://friend.findy.fi/
+    icon: https://friend.findy.fi/favicon.png
   - name: Opintopolku
     url: https://opintopolku.findy.fi
     icon: https://opintopolku.findy.fi/favicon.png
