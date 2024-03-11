@@ -79,19 +79,19 @@
     "url": "https://issuer.gataca.pensiondemo.findy.fi",
     "icon": "https://gataca.io/favicon-32x32.png?v=857b836439065cf2b1e76cc41fb197fe",
     "slug": "pensiondemo-gataca-issuer",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 711,
-    "timeDay": 660,
-    "timeWeek": 711,
-    "timeMonth": 711,
-    "timeYear": 711,
+    "status": "up",
+    "uptime": "99.80%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
+    "time": 724,
+    "timeDay": 752,
+    "timeWeek": 724,
+    "timeMonth": 724,
+    "timeYear": 724,
     "dailyMinutesDown": {
-      "2024-03-11": 2
+      "2024-03-11": 12
     }
   },
   {
@@ -99,19 +99,19 @@
     "url": "https://verifier.gataca.pensiondemo.findy.fi",
     "icon": "https://gataca.io/favicon-32x32.png?v=857b836439065cf2b1e76cc41fb197fe",
     "slug": "pensiondemo-gataca-verifier",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 785,
-    "timeDay": 816,
-    "timeWeek": 785,
-    "timeMonth": 785,
-    "timeYear": 785,
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 769,
+    "timeDay": 721,
+    "timeWeek": 769,
+    "timeMonth": 769,
+    "timeYear": 769,
     "dailyMinutesDown": {
-      "2024-03-11": 0
+      "2024-03-11": 10
     }
   },
   {
