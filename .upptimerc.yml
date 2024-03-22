@@ -12,6 +12,9 @@ sites:
   - name: Opintopolku
     url: https://opintopolku.findy.fi
     icon: https://opintopolku.findy.fi/favicon.png
+  - name: Findy Keycloak
+    url: https://id.keycloak.findy.fi
+    icon: https://www.keycloak.org/resources/favicon.ico
   - name: Pensiondemo
     url: https://pensiondemo.findy.fi
     icon: https://pensiondemo.findy.fi/favicon.ico
