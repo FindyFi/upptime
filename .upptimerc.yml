@@ -84,6 +84,7 @@ status-website:
       href: https://github.com/$OWNER/$REPO
     - title: Findy.fi
       href: https://findy.fi/
+  themeUrl: https://status.findy.fi/findy.css
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
