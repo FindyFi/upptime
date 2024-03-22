@@ -33,14 +33,32 @@ sites:
   - name: "Pensiondemo walt.id verifier"
     url: https://verifier.waltid.pensiondemo.findy.fi
     icon: https://walt.id/favicon.ico
-  - name: Walt.id Wallet
+  - name: Walt.id Pilot Wallet
     url: https://waltid.findy.fi
     icon: https://walt.id/favicon.ico
-  - name: Walt.id Issuer API
+  - name: Walt.id Pilot Issuer API
     url: https://issuer.waltid.findy.fi
     icon: https://walt.id/favicon.ico
-  - name: Walt.id Verifier API
+  - name: Walt.id Pilot Verifier API
     url: https://verifier.waltid.findy.fi
+    icon: https://walt.id/favicon.ico
+  - name: Walt.id Test Wallet
+    url: https://waltid.test.findy.fi
+    icon: https://walt.id/favicon.ico
+  - name: Walt.id Test Issuer API
+    url: https://issuer.waltid.test.findy.fi
+    icon: https://walt.id/favicon.ico
+  - name: Walt.id Test Verifier API
+    url: https://verifier.waltid.test.findy.fi
+    icon: https://walt.id/favicon.ico
+  - name: Walt.id Dev Wallet
+    url: https://waltid.dev.findy.fi
+    icon: https://walt.id/favicon.ico
+  - name: Walt.id Dev Issuer API
+    url: https://issuer.waltid.dev.findy.fi
+    icon: https://walt.id/favicon.ico
+  - name: Walt.id Dev Verifier API
+    url: https://verifier.waltid.dev.findy.fi
     icon: https://walt.id/favicon.ico
 
 status-website:
