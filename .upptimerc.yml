@@ -6,15 +6,51 @@ sites:
   - name: Findy.fi
     url: https://www.findy.fi
     icon: https://pensiondemo.findy.fi/favicon.ico
+  - name: Findy Keycloak
+    url: https://id.keycloak.findy.fi
+    icon: https://www.keycloak.org/resources/favicon.ico
+  - name: Walt.id Pilot Wallet
+    url: https://waltid.pilot.findy.fi
+    icon: https://walt.id/favicon.ico
+  - name: Walt.id Pilot Issuer API
+    url: https://issuer.waltid.pilot.findy.fi
+    icon: https://walt.id/favicon.ico
+  - name: Walt.id Pilot Verifier API
+    url: https://verifier.waltid.pilot.findy.fi
+    icon: https://walt.id/favicon.ico
+  - name: Walt.id Pilot Wallet API
+    url: https://wallet.waltid.pilot.findy.fi
+    icon: https://walt.id/favicon.ico
+  - name: Walt.id Test Wallet
+    url: https://waltid.test.findy.fi
+    icon: https://walt.id/favicon.ico
+  - name: Walt.id Test Issuer API
+    url: https://issuer.waltid.test.findy.fi
+    icon: https://walt.id/favicon.ico
+  - name: Walt.id Test Verifier API
+    url: https://verifier.waltid.test.findy.fi
+    icon: https://walt.id/favicon.ico
+  - name: Walt.id Test Wallet API
+    url: https://wallet.waltid.test.findy.fi
+    icon: https://walt.id/favicon.ico
+  - name: Walt.id Dev Wallet
+    url: https://waltid.dev.findy.fi
+    icon: https://walt.id/favicon.ico
+  - name: Walt.id Dev Issuer API
+    url: https://issuer.waltid.dev.findy.fi
+    icon: https://walt.id/favicon.ico
+  - name: Walt.id Dev Verifier API
+    url: https://verifier.waltid.dev.findy.fi
+    icon: https://walt.id/favicon.ico
+  - name: Walt.id Dev Wallet API
+    url: https://wallet.waltid.dev.findy.fi
+    icon: https://walt.id/favicon.ico
   - name: Friend of Findy
     url: https://friend.findy.fi/
     icon: https://friend.findy.fi/favicon.png
   - name: Opintopolku
     url: https://opintopolku.findy.fi
     icon: https://opintopolku.findy.fi/favicon.png
-  - name: Findy Keycloak
-    url: https://id.keycloak.findy.fi
-    icon: https://www.keycloak.org/resources/favicon.ico
   - name: Pensiondemo
     url: https://pensiondemo.findy.fi
     icon: https://pensiondemo.findy.fi/favicon.ico
@@ -35,33 +71,6 @@ sites:
     icon: https://walt.id/favicon.ico
   - name: "Pensiondemo walt.id verifier"
     url: https://verifier.waltid.pensiondemo.findy.fi
-    icon: https://walt.id/favicon.ico
-  - name: Walt.id Pilot Wallet
-    url: https://waltid.findy.fi
-    icon: https://walt.id/favicon.ico
-  - name: Walt.id Pilot Issuer API
-    url: https://issuer.waltid.findy.fi
-    icon: https://walt.id/favicon.ico
-  - name: Walt.id Pilot Verifier API
-    url: https://verifier.waltid.findy.fi
-    icon: https://walt.id/favicon.ico
-  - name: Walt.id Test Wallet
-    url: https://waltid.test.findy.fi
-    icon: https://walt.id/favicon.ico
-  - name: Walt.id Test Issuer API
-    url: https://issuer.waltid.test.findy.fi
-    icon: https://walt.id/favicon.ico
-  - name: Walt.id Test Verifier API
-    url: https://verifier.waltid.test.findy.fi
-    icon: https://walt.id/favicon.ico
-  - name: Walt.id Dev Wallet
-    url: https://waltid.dev.findy.fi
-    icon: https://walt.id/favicon.ico
-  - name: Walt.id Dev Issuer API
-    url: https://issuer.waltid.dev.findy.fi
-    icon: https://walt.id/favicon.ico
-  - name: Walt.id Dev Verifier API
-    url: https://verifier.waltid.dev.findy.fi
     icon: https://walt.id/favicon.ico
 
 skipDeleteIssues: true
