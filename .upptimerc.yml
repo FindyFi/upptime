@@ -64,15 +64,19 @@ sites:
     url: https://verifier.waltid.dev.findy.fi
     icon: https://walt.id/favicon.ico
 
+skipDeleteIssues: true
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   # baseUrl: /
   cname: status.findy.fi
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  favicon: https://findynet.fi/wp-content/uploads/2024/02/findynet-favicon-300x300.png
+  logoUrl: https://findynet.fi/wp-content/uploads/2024/02/findynet-favicon-300x300.png
   name: Findynet Upptime
   introTitle: "Findynet Website monitoring."
+  introMessage: "Status and status history of Findynet's web site, services, and demo sites."
   navbar:
     - title: Status
       href: /
