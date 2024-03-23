@@ -1,7 +1,7 @@
 url: https://verifier.gataca.pensiondemo.findy.fi
-status: up
-code: 200
-responseTime: 422
-lastUpdated: 2024-03-23T12:52:55.155Z
+status: down
+code: 500
+responseTime: 367
+lastUpdated: 2024-03-23T13:13:54.063Z
 startTime: 2024-03-07T16:00:58.762Z
 generator: Upptime <https://github.com/upptime/upptime>
