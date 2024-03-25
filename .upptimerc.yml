@@ -33,6 +33,9 @@ sites:
   - name: Walt.id Test Wallet API
     url: https://wallet.waltid.test.findy.fi
     icon: https://walt.id/favicon.ico
+  - name: Walt.id Test Wallet Portal
+    url: https://portal.waltid.test.findy.fi
+    icon: https://walt.id/favicon.ico
   - name: Walt.id Dev Wallet
     url: https://waltid.dev.findy.fi
     icon: https://walt.id/favicon.ico
@@ -44,6 +47,9 @@ sites:
     icon: https://walt.id/favicon.ico
   - name: Walt.id Dev Wallet API
     url: https://wallet.waltid.dev.findy.fi
+    icon: https://walt.id/favicon.ico
+  - name: Walt.id Dev Wallet Portal
+    url: https://portal.waltid.dev.findy.fi
     icon: https://walt.id/favicon.ico
   - name: Friend of Findy
     url: https://friend.findy.fi/
