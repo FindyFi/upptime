@@ -1,7 +1,7 @@
 url: https://issuer.gataca.pensiondemo.findy.fi
-status: down
-code: 500
-responseTime: 211
-lastUpdated: 2024-03-25T23:08:41.590Z
+status: up
+code: 200
+responseTime: 263
+lastUpdated: 2024-03-26T13:16:46.703Z
 startTime: 2024-03-07T16:00:57.302Z
 generator: Upptime <https://github.com/upptime/upptime>
