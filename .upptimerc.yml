@@ -78,6 +78,12 @@ sites:
   - name: "Pensiondemo walt.id verifier"
     url: https://verifier.waltid.pensiondemo.findy.fi
     icon: https://walt.id/favicon.ico
+  - name: Findy Web Wallet (CHAPI)
+    url: https://webwallet.findy.fi/
+    icon: https://webwallet.findy.fi/findy.png
+  - name: Findy Job application demo (CHAPI)
+    url: https://apply.test.findy.fi/
+    icon: https://apply.test.findy.fi/favicon.png
 
 skipDeleteIssues: true
 
