@@ -1,7 +1,7 @@
 url: https://portal.waltid.dev.findy.fi
-status: up
-code: 200
-responseTime: 356
-lastUpdated: 2024-04-24T23:11:11.192Z
+status: down
+code: 503
+responseTime: 550
+lastUpdated: 2024-04-25T09:52:39.071Z
 startTime: 2024-03-25T10:45:13.360Z
 generator: Upptime <https://github.com/upptime/upptime>
