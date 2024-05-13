@@ -1,7 +1,7 @@
 url: https://verifier.waltid.pensiondemo.findy.fi
-status: down
-code: 502
-responseTime: 374
-lastUpdated: 2024-05-13T12:46:16.822Z
+status: up
+code: 200
+responseTime: 1542
+lastUpdated: 2024-05-13T13:38:21.813Z
 startTime: 2024-03-07T16:01:05.120Z
 generator: Upptime <https://github.com/upptime/upptime>
