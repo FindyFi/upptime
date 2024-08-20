@@ -1,7 +1,7 @@
 url: https://issuer.waltid.test.findy.fi
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-08-19T23:11:30.044Z
+status: up
+code: 200
+responseTime: 691
+lastUpdated: 2024-08-20T06:30:34.911Z
 startTime: 2024-03-22T07:09:28.515Z
 generator: Upptime <https://github.com/upptime/upptime>
