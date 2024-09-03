@@ -1,7 +1,7 @@
 url: https://issuer.sicpa.pensiondemo.findy.fi
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-09-03T11:40:45.796Z
+status: up
+code: 200
+responseTime: 1074
+lastUpdated: 2024-09-03T13:28:18.568Z
 startTime: 2024-03-07T16:01:00.109Z
 generator: Upptime <https://github.com/upptime/upptime>
