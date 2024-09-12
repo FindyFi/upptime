@@ -1,7 +1,7 @@
 url: https://verifier.waltid.dev.findy.fi
-status: down
-code: 503
-responseTime: 409
-lastUpdated: 2024-09-12T08:50:24.933Z
+status: up
+code: 200
+responseTime: 871
+lastUpdated: 2024-09-12T09:12:50.438Z
 startTime: 2024-03-22T07:11:42.792Z
 generator: Upptime <https://github.com/upptime/upptime>
