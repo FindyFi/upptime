@@ -1,7 +1,7 @@
 url: https://verifier.sicpa.pensiondemo.findy.fi
-status: down
-code: 502
-responseTime: 288
-lastUpdated: 2024-10-21T10:49:24.049Z
+status: up
+code: 200
+responseTime: 1117
+lastUpdated: 2024-10-21T11:09:30.881Z
 startTime: 2024-03-07T16:01:03.198Z
 generator: Upptime <https://github.com/upptime/upptime>
