@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1992,
-    "timeDay": 2088,
-    "timeWeek": 1896,
-    "timeMonth": 2001,
-    "timeYear": 1996,
+    "time": 1993,
+    "timeDay": 2213,
+    "timeWeek": 1985,
+    "timeMonth": 1994,
+    "timeYear": 1997,
     "dailyMinutesDown": {
       "2025-05-19": 38,
       "2024-11-26": 16
@@ -31,9 +31,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.53%",
-    "time": 885,
-    "timeDay": 773,
-    "timeWeek": 757,
+    "time": 886,
+    "timeDay": 1075,
+    "timeWeek": 801,
     "timeMonth": 854,
     "timeYear": 891,
     "dailyMinutesDown": {
@@ -57,11 +57,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 661,
-    "timeDay": 713,
-    "timeWeek": 666,
-    "timeMonth": 692,
-    "timeYear": 676,
+    "time": 663,
+    "timeDay": 1153,
+    "timeWeek": 740,
+    "timeMonth": 702,
+    "timeYear": 677,
     "dailyMinutesDown": {
       "2024-08-21": 13
     }
@@ -77,11 +77,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 826,
-    "timeDay": 991,
-    "timeWeek": 844,
-    "timeMonth": 854,
-    "timeYear": 861,
+    "time": 827,
+    "timeDay": 1192,
+    "timeWeek": 888,
+    "timeMonth": 859,
+    "timeYear": 862,
     "dailyMinutesDown": {
       "2024-08-21": 13
     }
@@ -98,10 +98,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 639,
-    "timeDay": 453,
-    "timeWeek": 521,
-    "timeMonth": 534,
-    "timeYear": 618,
+    "timeDay": 896,
+    "timeWeek": 577,
+    "timeMonth": 539,
+    "timeYear": 619,
     "dailyMinutesDown": {
       "2024-08-21": 13
     }
@@ -117,10 +117,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 563,
-    "timeDay": 469,
-    "timeWeek": 506,
-    "timeMonth": 562,
+    "time": 564,
+    "timeDay": 781,
+    "timeWeek": 546,
+    "timeMonth": 570,
     "timeYear": 574,
     "dailyMinutesDown": {
       "2024-08-21": 13
@@ -138,8 +138,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.35%",
     "time": 504,
-    "timeDay": 352,
-    "timeWeek": 437,
+    "timeDay": 554,
+    "timeWeek": 459,
     "timeMonth": 487,
     "timeYear": 509,
     "dailyMinutesDown": {
@@ -159,8 +159,7 @@
       "2024-08-08": 1440,
       "2024-08-07": 1440,
       "2024-08-06": 1440,
-      "2024-08-05": 1440,
-      "2024-08-04": 921
+      "2024-08-05": 1440
     }
   },
   {
@@ -174,10 +173,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.35%",
-    "time": 739,
-    "timeDay": 692,
-    "timeWeek": 691,
-    "timeMonth": 766,
+    "time": 740,
+    "timeDay": 910,
+    "timeWeek": 730,
+    "timeMonth": 767,
     "timeYear": 776,
     "dailyMinutesDown": {
       "2024-08-21": 494,
@@ -196,8 +195,7 @@
       "2024-08-08": 1440,
       "2024-08-07": 1440,
       "2024-08-06": 1440,
-      "2024-08-05": 1440,
-      "2024-08-04": 921
+      "2024-08-05": 1440
     }
   },
   {
@@ -211,11 +209,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.35%",
-    "time": 721,
-    "timeDay": 694,
-    "timeWeek": 738,
-    "timeMonth": 763,
-    "timeYear": 758,
+    "time": 723,
+    "timeDay": 1126,
+    "timeWeek": 807,
+    "timeMonth": 771,
+    "timeYear": 760,
     "dailyMinutesDown": {
       "2024-08-21": 494,
       "2024-08-20": 1425,
@@ -233,8 +231,7 @@
       "2024-08-08": 1440,
       "2024-08-07": 1440,
       "2024-08-06": 1440,
-      "2024-08-05": 1440,
-      "2024-08-04": 921
+      "2024-08-05": 1440
     }
   },
   {
@@ -243,16 +240,16 @@
     "icon": "https://walt.id/favicon.ico",
     "slug": "walt-id-test-wallet-api",
     "status": "up",
-    "uptime": "96.59%",
+    "uptime": "96.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.35%",
     "time": 513,
-    "timeDay": 739,
-    "timeWeek": 545,
-    "timeMonth": 519,
-    "timeYear": 506,
+    "timeDay": 711,
+    "timeWeek": 590,
+    "timeMonth": 525,
+    "timeYear": 507,
     "dailyMinutesDown": {
       "2024-08-21": 494,
       "2024-08-20": 1425,
@@ -270,8 +267,7 @@
       "2024-08-08": 1440,
       "2024-08-07": 1440,
       "2024-08-06": 1440,
-      "2024-08-05": 1440,
-      "2024-08-04": 921
+      "2024-08-05": 1440
     }
   },
   {
@@ -280,15 +276,15 @@
     "icon": "https://walt.id/favicon.ico",
     "slug": "walt-id-test-wallet-portal",
     "status": "up",
-    "uptime": "96.57%",
+    "uptime": "96.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.35%",
-    "time": 501,
-    "timeDay": 401,
-    "timeWeek": 425,
-    "timeMonth": 469,
+    "time": 502,
+    "timeDay": 573,
+    "timeWeek": 449,
+    "timeMonth": 470,
     "timeYear": 491,
     "dailyMinutesDown": {
       "2024-08-21": 494,
@@ -307,8 +303,7 @@
       "2024-08-08": 1440,
       "2024-08-07": 1440,
       "2024-08-06": 1440,
-      "2024-08-05": 1440,
-      "2024-08-04": 921
+      "2024-08-05": 1440
     }
   },
   {
@@ -317,14 +312,14 @@
     "icon": "https://walt.id/favicon.ico",
     "slug": "walt-id-dev-wallet",
     "status": "up",
-    "uptime": "60.23%",
+    "uptime": "60.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "65.61%",
-    "time": 461,
-    "timeDay": 357,
-    "timeWeek": 390,
+    "uptimeYear": "65.88%",
+    "time": 460,
+    "timeDay": 559,
+    "timeWeek": 412,
     "timeMonth": 441,
     "timeYear": 457,
     "dailyMinutesDown": {
@@ -453,8 +448,7 @@
       "2024-08-08": 1440,
       "2024-08-07": 1440,
       "2024-08-06": 1440,
-      "2024-08-05": 1440,
-      "2024-08-04": 1440
+      "2024-08-05": 1440
     }
   },
   {
@@ -463,15 +457,15 @@
     "icon": "https://walt.id/favicon.ico",
     "slug": "walt-id-dev-issuer-api",
     "status": "up",
-    "uptime": "82.21%",
+    "uptime": "82.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "76.61%",
-    "time": 708,
-    "timeDay": 610,
-    "timeWeek": 675,
-    "timeMonth": 731,
+    "time": 709,
+    "timeDay": 923,
+    "timeWeek": 697,
+    "timeMonth": 732,
     "timeYear": 744,
     "dailyMinutesDown": {
       "2025-01-24": 857,
@@ -570,16 +564,16 @@
     "icon": "https://walt.id/favicon.ico",
     "slug": "walt-id-dev-verifier-api",
     "status": "up",
-    "uptime": "60.23%",
+    "uptime": "60.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "65.61%",
-    "time": 704,
-    "timeDay": 613,
-    "timeWeek": 650,
-    "timeMonth": 725,
-    "timeYear": 737,
+    "uptimeYear": "65.88%",
+    "time": 705,
+    "timeDay": 921,
+    "timeWeek": 689,
+    "timeMonth": 727,
+    "timeYear": 738,
     "dailyMinutesDown": {
       "2025-01-24": 857,
       "2025-01-23": 1440,
@@ -706,8 +700,7 @@
       "2024-08-08": 1440,
       "2024-08-07": 1440,
       "2024-08-06": 1440,
-      "2024-08-05": 1440,
-      "2024-08-04": 1440
+      "2024-08-05": 1440
     }
   },
   {
@@ -716,15 +709,15 @@
     "icon": "https://walt.id/favicon.ico",
     "slug": "walt-id-dev-wallet-api",
     "status": "up",
-    "uptime": "60.24%",
+    "uptime": "60.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "65.61%",
+    "uptimeYear": "65.88%",
     "time": 474,
-    "timeDay": 379,
-    "timeWeek": 426,
-    "timeMonth": 470,
+    "timeDay": 565,
+    "timeWeek": 449,
+    "timeMonth": 469,
     "timeYear": 478,
     "dailyMinutesDown": {
       "2025-01-24": 857,
@@ -852,8 +845,7 @@
       "2024-08-08": 1440,
       "2024-08-07": 1440,
       "2024-08-06": 1440,
-      "2024-08-05": 1440,
-      "2024-08-04": 1440
+      "2024-08-05": 1440
     }
   },
   {
@@ -862,15 +854,15 @@
     "icon": "https://walt.id/favicon.ico",
     "slug": "walt-id-dev-wallet-portal",
     "status": "up",
-    "uptime": "58.23%",
+    "uptime": "58.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "65.61%",
+    "uptimeYear": "65.89%",
     "time": 471,
-    "timeDay": 365,
-    "timeWeek": 402,
-    "timeMonth": 450,
+    "timeDay": 563,
+    "timeWeek": 425,
+    "timeMonth": 451,
     "timeYear": 461,
     "dailyMinutesDown": {
       "2025-01-24": 857,
@@ -997,8 +989,7 @@
       "2024-08-08": 1440,
       "2024-08-07": 1440,
       "2024-08-06": 1440,
-      "2024-08-05": 1440,
-      "2024-08-04": 1440
+      "2024-08-05": 1440
     }
   },
   {
@@ -1007,18 +998,19 @@
     "icon": "https://friend.findy.fi/favicon.png",
     "slug": "friend-of-findy",
     "status": "down",
-    "uptime": "64.44%",
+    "uptime": "64.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "50.07%",
-    "time": 3375,
-    "timeDay": 28612,
+    "uptimeYear": "49.80%",
+    "time": 3381,
+    "timeDay": 0,
     "timeWeek": 22450,
     "timeMonth": 12205,
-    "timeYear": 4759,
+    "timeYear": 4773,
     "dailyMinutesDown": {
-      "2025-08-03": 144,
+      "2025-08-04": 143,
+      "2025-08-03": 1440,
       "2025-08-02": 1440,
       "2025-08-01": 1440,
       "2025-07-31": 1440,
@@ -1227,10 +1219,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 561,
-    "timeDay": 448,
-    "timeWeek": 497,
-    "timeMonth": 551,
-    "timeYear": 562,
+    "timeDay": 693,
+    "timeWeek": 522,
+    "timeMonth": 550,
+    "timeYear": 563,
     "dailyMinutesDown": {}
   },
   {
@@ -1245,10 +1237,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 391,
-    "timeDay": 345,
-    "timeWeek": 390,
-    "timeMonth": 424,
-    "timeYear": 418,
+    "timeDay": 628,
+    "timeWeek": 428,
+    "timeMonth": 426,
+    "timeYear": 419,
     "dailyMinutesDown": {}
   },
   {
@@ -1257,16 +1249,16 @@
     "icon": "https://gataca.io/favicon-32x32.png?v=857b836439065cf2b1e76cc41fb197fe",
     "slug": "pensiondemo-gataca-issuer",
     "status": "up",
-    "uptime": "76.21%",
+    "uptime": "76.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "86.75%",
+    "uptimeYear": "87.02%",
     "time": 465,
-    "timeDay": 333,
-    "timeWeek": 434,
-    "timeMonth": 500,
-    "timeYear": 474,
+    "timeDay": 534,
+    "timeWeek": 459,
+    "timeMonth": 493,
+    "timeYear": 475,
     "dailyMinutesDown": {
       "2025-03-21": 13,
       "2024-09-20": 669,
@@ -1315,8 +1307,7 @@
       "2024-08-08": 1440,
       "2024-08-07": 1440,
       "2024-08-06": 1440,
-      "2024-08-05": 1440,
-      "2024-08-04": 1440
+      "2024-08-05": 1440
     }
   },
   {
@@ -1325,7 +1316,7 @@
     "icon": "https://gataca.io/favicon-32x32.png?v=857b836439065cf2b1e76cc41fb197fe",
     "slug": "pensiondemo-gataca-verifier",
     "status": "down",
-    "uptime": "14.58%",
+    "uptime": "14.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1334,9 +1325,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 358,
+    "timeYear": 360,
     "dailyMinutesDown": {
-      "2025-08-03": 144,
+      "2025-08-04": 143,
+      "2025-08-03": 1440,
       "2025-08-02": 1440,
       "2025-08-01": 1440,
       "2025-07-31": 1440,
@@ -1699,8 +1691,7 @@
       "2024-08-08": 1440,
       "2024-08-07": 1440,
       "2024-08-06": 1440,
-      "2024-08-05": 1440,
-      "2024-08-04": 1440
+      "2024-08-05": 1440
     }
   },
   {
@@ -1709,16 +1700,16 @@
     "icon": "https://www.sicpa.com/themes/custom/sicpa_theme/sicpa.ico",
     "slug": "pensiondemo-sicpa-issuer",
     "status": "up",
-    "uptime": "96.64%",
+    "uptime": "96.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.55%",
-    "time": 1085,
-    "timeDay": 266,
-    "timeWeek": 324,
+    "uptimeYear": "96.83%",
+    "time": 1076,
+    "timeDay": 444,
+    "timeWeek": 346,
     "timeMonth": 340,
-    "timeYear": 690,
+    "timeYear": 689,
     "dailyMinutesDown": {
       "2025-01-28": 13,
       "2024-09-23": 51,
@@ -1733,8 +1724,7 @@
       "2024-08-08": 1440,
       "2024-08-07": 1440,
       "2024-08-06": 1440,
-      "2024-08-05": 1440,
-      "2024-08-04": 1440
+      "2024-08-05": 1440
     }
   },
   {
@@ -1743,18 +1733,19 @@
     "icon": "https://www.sicpa.com/themes/custom/sicpa_theme/sicpa.ico",
     "slug": "pensiondemo-sicpa-verifier",
     "status": "down",
-    "uptime": "80.64%",
+    "uptime": "80.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "72.77%",
-    "time": 1459,
+    "uptimeYear": "72.49%",
+    "time": 1462,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2003,
+    "timeYear": 2010,
     "dailyMinutesDown": {
-      "2025-08-03": 144,
+      "2025-08-04": 144,
+      "2025-08-03": 1440,
       "2025-08-02": 1440,
       "2025-08-01": 1440,
       "2025-07-31": 1440,
@@ -1870,10 +1861,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 354,
-    "timeDay": 280,
-    "timeWeek": 288,
-    "timeMonth": 339,
-    "timeYear": 326,
+    "timeDay": 480,
+    "timeWeek": 316,
+    "timeMonth": 341,
+    "timeYear": 327,
     "dailyMinutesDown": {}
   },
   {
@@ -1887,11 +1878,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.89%",
-    "time": 672,
-    "timeDay": 491,
-    "timeWeek": 627,
-    "timeMonth": 694,
-    "timeYear": 682,
+    "time": 673,
+    "timeDay": 932,
+    "timeWeek": 668,
+    "timeMonth": 696,
+    "timeYear": 683,
     "dailyMinutesDown": {
       "2024-10-02": 452,
       "2024-10-01": 1440,
@@ -1917,11 +1908,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 428,
-    "timeDay": 362,
-    "timeWeek": 395,
+    "time": 429,
+    "timeDay": 560,
+    "timeWeek": 417,
     "timeMonth": 442,
-    "timeYear": 424,
+    "timeYear": 425,
     "dailyMinutesDown": {}
   },
   {
@@ -1936,8 +1927,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 139,
-    "timeDay": 220,
-    "timeWeek": 130,
+    "timeDay": 154,
+    "timeWeek": 137,
     "timeMonth": 136,
     "timeYear": 141,
     "dailyMinutesDown": {}
