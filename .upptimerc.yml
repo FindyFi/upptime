@@ -9,69 +9,40 @@ sites:
   - name: Findy Keycloak
     url: https://id.keycloak.findy.fi
     icon: https://www.keycloak.org/resources/favicon.ico
-  - name: Walt.id Pilot Wallet
-    url: https://waltid.pilot.findy.fi
+  - name: Walt.id Staging Wallet
+    url: https://waltid.staging.findy.fi
     icon: https://walt.id/favicon.ico
-  - name: Walt.id Pilot Issuer API
-    url: https://issuer.waltid.pilot.findy.fi
+  - name: Walt.id Staging Issuer API
+    url: https://issuer.waltid.staging.findy.fi
     icon: https://walt.id/favicon.ico
-  - name: Walt.id Pilot Verifier API
-    url: https://verifier.waltid.pilot.findy.fi
+  - name: Walt.id Staging Verifier API
+    url: https://verifier.waltid.staging.findy.fi
     icon: https://walt.id/favicon.ico
-  - name: Walt.id Pilot Wallet API
-    url: https://wallet.waltid.pilot.findy.fi
+  - name: Walt.id Staging Wallet API
+    url: https://wallet.waltid.staging.findy.fi
     icon: https://walt.id/favicon.ico
-  - name: Walt.id Test Wallet
-    url: https://waltid.test.findy.fi
-    icon: https://walt.id/favicon.ico
-  - name: Walt.id Test Issuer API
-    url: https://issuer.waltid.test.findy.fi
-    icon: https://walt.id/favicon.ico
-  - name: Walt.id Test Verifier API
-    url: https://verifier.waltid.test.findy.fi
-    icon: https://walt.id/favicon.ico
-  - name: Walt.id Test Wallet API
-    url: https://wallet.waltid.test.findy.fi
-    icon: https://walt.id/favicon.ico
-  - name: Walt.id Test Wallet Portal
-    url: https://portal.waltid.test.findy.fi
-    icon: https://walt.id/favicon.ico
-  - name: Walt.id Dev Wallet
-    url: https://waltid.dev.findy.fi
-    icon: https://walt.id/favicon.ico
-  - name: Walt.id Dev Issuer API
-    url: https://issuer.waltid.dev.findy.fi
-    icon: https://walt.id/favicon.ico
-  - name: Walt.id Dev Verifier API
-    url: https://verifier.waltid.dev.findy.fi
-    icon: https://walt.id/favicon.ico
-  - name: Walt.id Dev Wallet API
-    url: https://wallet.waltid.dev.findy.fi
-    icon: https://walt.id/favicon.ico
-  - name: Walt.id Dev Wallet Portal
-    url: https://portal.waltid.dev.findy.fi
-    icon: https://walt.id/favicon.ico
-  - name: Friend of Findy
-    url: https://friend.findy.fi/
-    icon: https://friend.findy.fi/favicon.png
+# Archived for the time being
+#  - name: Friend of Findy
+#    url: https://friend.findy.fi/
+#    icon: https://friend.findy.fi/favicon.png
   - name: Opintopolku
     url: https://opintopolku.findy.fi
     icon: https://opintopolku.findy.fi/favicon.png
   - name: Pensiondemo
     url: https://pensiondemo.findy.fi
     icon: https://pensiondemo.findy.fi/favicon.ico
-  - name: "Pensiondemo Gataca issuer"
-    url: https://issuer.gataca.pensiondemo.findy.fi
-    icon: https://gataca.io/favicon-32x32.png?v=857b836439065cf2b1e76cc41fb197fe
-  - name: "Pensiondemo Gataca verifier"
-    url: https://verifier.gataca.pensiondemo.findy.fi
-    icon: https://gataca.io/favicon-32x32.png?v=857b836439065cf2b1e76cc41fb197fe
-  - name: "Pensiondemo SICPA issuer"
-    url: https://issuer.sicpa.pensiondemo.findy.fi
-    icon: https://www.sicpa.com/themes/custom/sicpa_theme/sicpa.ico
-  - name: "Pensiondemo SICPA verifier"
-    url: https://verifier.sicpa.pensiondemo.findy.fi
-    icon: https://www.sicpa.com/themes/custom/sicpa_theme/sicpa.ico
+#  - name: "Pensiondemo Gataca issuer"
+#    url: https://issuer.gataca.pensiondemo.findy.fi
+#    icon: https://gataca.io/favicon-32x32.png?v=857b836439065cf2b1e76cc41fb197fe
+#  - name: "Pensiondemo Gataca verifier"
+#    url: https://verifier.gataca.pensiondemo.findy.fi
+#    icon: https://gataca.io/favicon-32x32.png?v=857b836439065cf2b1e76cc41fb197fe
+#  - name: "Pensiondemo SICPA issuer"
+#    url: https://issuer.sicpa.pensiondemo.findy.fi
+#    icon: https://www.sicpa.com/themes/custom/sicpa_theme/sicpa.ico
+#  - name: "Pensiondemo SICPA verifier"
+#    url: https://verifier.sicpa.pensiondemo.findy.fi
+#    icon: https://www.sicpa.com/themes/custom/sicpa_theme/sicpa.ico
   - name: "Pensiondemo walt.id issuer"
     url: https://issuer.waltid.pensiondemo.findy.fi
     icon: https://walt.id/favicon.ico
