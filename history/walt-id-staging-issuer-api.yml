@@ -1,7 +1,7 @@
 url: https://issuer.waltid.staging.findy.fi
-status: down
-code: 503
-responseTime: 480
-lastUpdated: 2026-07-30T15:32:27.605Z
+status: up
+code: 200
+responseTime: 1246
+lastUpdated: 2026-07-30T17:10:59.139Z
 startTime: 2026-05-28T09:51:28.880Z
 generator: Upptime <https://github.com/upptime/upptime>
