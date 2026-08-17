@@ -3,12 +3,12 @@ owner: FindyFi # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Findy.fi
-    url: https://www.findy.fi
-    icon: https://pensiondemo.findy.fi/favicon.ico
-  - name: Findy Keycloak
-    url: https://id.keycloak.findy.fi
-    icon: https://www.keycloak.org/resources/favicon.ico
+  - name: Findynet.fi
+    url: https://www.findynet.fi
+    icon: http://findynet.fi/logo
+#  - name: Findy Keycloak
+#    url: https://id.keycloak.findy.fi
+#    icon: https://www.keycloak.org/resources/favicon.ico
   - name: Walt.id Staging Wallet
     url: https://waltid.staging.findy.fi
     icon: https://walt.id/favicon.ico
@@ -74,8 +74,8 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-    - title: Findy.fi
-      href: https://findy.fi/
+    - title: Findynet.fi
+      href: https://findynet.fi/
   themeUrl: https://status.findy.fi/findy.css
 
 # Upptime also supports notifications, assigning issues, and more
