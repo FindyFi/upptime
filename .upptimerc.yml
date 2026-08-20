@@ -27,7 +27,7 @@ sites:
     icon: https://pensiondemo.findy.fi/favicon.ico
   - name: "Pensiondemo Authbound"
     url: https://authbound.pensiondemo.findy.fi
-    icon: https://cdn.prod.website-files.com/659dad70ef0ae858f66ae208/65dc73e6b6a536fcaf9e45bd_favicon%20(1).jpg
+    icon: https://www.authbound.io/favicon.ico
 #  - name: "Pensiondemo Gataca issuer"
 #    url: https://issuer.gataca.pensiondemo.findy.fi
 #    icon: https://gataca.io/favicon-32x32.png?v=857b836439065cf2b1e76cc41fb197fe
