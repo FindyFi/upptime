@@ -6,7 +6,7 @@ sites:
   - name: Findynet.fi
     url: https://www.findynet.fi
     icon: http://findynet.fi/logo
-  -name: Trust Registry Browser
+  - name: Trust Registry Browser
     url: https://browser.trustregistry.eu/?entity=https%3A%2F%2Ffindy.trustregistry.eu
     icon: http://findynet.fi/logo    
 #  - name: Findy Keycloak
