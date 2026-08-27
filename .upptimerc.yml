@@ -16,6 +16,9 @@ sites:
 #  - name: Friend of Findy
 #    url: https://friend.findy.fi/
 #    icon: https://friend.findy.fi/favicon.png
+  - name: Hymy-todiste
+    url: https://hymytodiste.fi/
+    icon: https://hymytodiste.fi/hymy-green.svg
   - name: Kiltteystodiste
     url: https://joulu.todiste.fi/
     icon: https://joulu.todiste.fi/favicon.png
