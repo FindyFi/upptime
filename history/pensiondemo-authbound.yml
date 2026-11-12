@@ -1,7 +1,7 @@
 url: https://authbound.pensiondemo.findy.fi
-status: up
-code: 200
-responseTime: 627
-lastUpdated: 2026-11-12T03:28:58.627Z
+status: down
+code: 502
+responseTime: 546
+lastUpdated: 2026-11-12T16:21:41.067Z
 startTime: 2026-08-20T12:51:45.348Z
 generator: Upptime <https://github.com/upptime/upptime>
